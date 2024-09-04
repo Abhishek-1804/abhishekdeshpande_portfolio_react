@@ -45,7 +45,7 @@ This website serves as a showcase of my work, skills, and experiences as a devel
 ```
 
 4. `npm start` project and customize it
-5. Use `npm run deploy` to deploy to github pages. Within github settings, select the main branch as the source for github pages
+5. Use `npm run deploy` to deploy to github pages. Within github settings, ensure the gh-pages branch as the source for github pages
 6. To make additional changes, make updates and redeploy
 
 ```

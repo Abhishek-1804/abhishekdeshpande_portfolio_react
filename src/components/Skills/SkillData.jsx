@@ -28,10 +28,6 @@ const skillsData = [
     name: "Next.js",
   },
   {
-    icon: "https://raw.githubusercontent.com/detain/svg-logos/07e36b4aa0691f3015886624395e083395e528c5/svg/t/tailwindcss.svg",
-    name: "Tailwind CSS",
-  },
-  {
     icon: "https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg",
     name: "MongoDB",
   },
